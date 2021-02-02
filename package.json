@@ -1,0 +1,17 @@
+{
+  "name": "weatherapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A weather app.",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^4.4.0",
+    "webpack": "^5.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "Michael Stetter",
+  "license": "ISC"
+}

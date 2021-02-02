@@ -1,0 +1,1 @@
+A weather application that uses the OpenWeatherMap API.
