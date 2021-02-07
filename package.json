@@ -5,8 +5,8 @@
   "description": "A weather app.",
   "main": "index.js",
   "dependencies": {
-    "webpack-cli": "^4.4.0",
-    "webpack": "^5.19.0"
+    "webpack": "^5.20.1",
+    "webpack-cli": "^4.5.0"
   },
   "devDependencies": {},
   "scripts": {
